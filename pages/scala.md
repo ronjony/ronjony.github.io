@@ -10,4 +10,4 @@ css: ['blog-page.css']
 permalink: /scala
 ---
 
-{% include spring-boot.html %}
+{% include scala.html %}

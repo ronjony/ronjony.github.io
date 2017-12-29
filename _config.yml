@@ -60,11 +60,11 @@ navs:
 
   -
     href: /scala.html
-    label: scala
+    label: Scala
 
   -
     href: /java.html
-    label: java
+    label: Java
 
   -
     href: /archives.html
