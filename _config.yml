@@ -59,12 +59,12 @@ navs:
     label: Home
 
   -
-    href: /spring-boot.html
-    label: Spring-Boot
+    href: /scala.html
+    label: scala
 
   -
-    href: /spring-cloud.html
-    label: Spring-Cloud
+    href: /java.html
+    label: java
 
   -
     href: /archives.html
