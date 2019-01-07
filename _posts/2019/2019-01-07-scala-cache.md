@@ -2,7 +2,7 @@
 layout: post
 title: actor模型的应用
 no-post-nav: true
-category: scala
+category: Scala
 tags: [scala]
 ---
 
