@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 分布式缓存架构的技术选择
+title: actor模型的应用
 no-post-nav: true
 category: scala
 tags: [scala]
