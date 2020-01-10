@@ -2,7 +2,7 @@
 layout: post
 title: 灰度发布框架discovery源码分析（一）  
 no-post-nav: true
-category: share
+category: spring cloud
 tags: [share]
 ---
 
