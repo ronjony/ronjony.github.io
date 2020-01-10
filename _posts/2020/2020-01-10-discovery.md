@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 灰度发布框架discovery源码分析（一）  
+title: 灰度发布框架discovery源码分析（一）
 no-post-nav: true
 category: java
-tags: [share]
+tags: [java]
 ---
 
 ### 系统实现功能点
